@@ -1,2 +1,0 @@
-# rnnoise
-private rnnoise
