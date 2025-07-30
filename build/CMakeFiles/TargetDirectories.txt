@@ -1,0 +1,6 @@
+D:/DownloadTool/rnnoise-master/build/CMakeFiles/ALL_BUILD.dir
+D:/DownloadTool/rnnoise-master/build/CMakeFiles/ZERO_CHECK.dir
+D:/DownloadTool/rnnoise-master/build/src/CMakeFiles/rnnoise.dir
+D:/DownloadTool/rnnoise-master/build/src/CMakeFiles/rnnoise_static.dir
+D:/DownloadTool/rnnoise-master/build/examples/CMakeFiles/rnnoise_demo.dir
+D:/DownloadTool/rnnoise-master/build/examples/CMakeFiles/rnnoise_demo_simple.dir
